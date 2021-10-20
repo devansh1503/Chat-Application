@@ -1,0 +1,7 @@
+(NOTE: To use this Chat Application you must have Node.JS, Nodemon, and Socket.io installed)
+To use this Chat application:
+1. Open terminal in your editor
+2. write the following commands:
+cd backend
+nodemon main
+3.Now you can open the live server from the HTML file of the project for first user, and open another window with same url for second user.
